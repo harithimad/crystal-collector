@@ -1,0 +1,136 @@
+#developed
+{
+	    color: red;
+    font-family: "Comic Sans MS", cursive, sans-serif;
+    position: relative;
+    margin-left: 156px;
+}
+
+#name
+{
+	      color: red;
+    font-family: "Comic Sans MS", cursive, sans-serif;
+    position: relative;
+    float: right;
+    margin-top: -40px;
+    margin-right: 68px;
+}
+#container-fluid {
+	
+	width: 75%;
+	height: 90%px;
+	padding-left: 25%;
+	padding-top: 2%;
+	padding-bottom: 1%;
+	}
+
+body {
+
+	background-image: url("../images/background.jpg");
+	background-size: 75%;
+	border: solid 2px;
+}
+
+h1{
+	background-color: yellow;
+	color: white;
+	display:inline;
+	clear: both;
+	padding: 10px;
+	margin-bottom: 20px;
+	border: solid 1px #ddd;
+	border-radius: 30px;
+	font-family: 'Merriweather', serif;
+}
+
+#wrapper {
+	width: 100%
+	max-width:960px;
+	margin: 0 auto;
+	text-align: center;
+}
+
+#instructions {
+	font-family: "Comic Sans MS", cursive, sans-serif;
+	color: yellow;
+	
+    background-color: #071508;
+    width: 85%;
+    clear: both;
+    margin-top: 20px;
+    border: solid 3px #526b01;
+    margin-left: 63px;
+}
+
+#guessingNumber {
+	font-family: "Comic Sans MS", cursive, sans-serif;
+	background-color: rgba(65, 24, 97, 0.39);
+	float: left;
+	display: inline-block;
+	padding: 10px;
+    margin-left: 48px;
+	margin-top: 20px;
+	border-radius :10px;
+	color: rgb(171, 105, 147);
+}
+
+#scoreboard {
+	font-family: "Comic Sans MS", cursive, sans-serif;
+	background-color: rgba(255, 161, 61, 0.29);;
+	display: inline-block;
+	padding: 15px 20px 10px 15px;
+	margin-top: 20px;
+	margin-left: -462px;
+	border-radius: 25px;
+	color: #20bd05;
+
+}
+
+#crystals {
+	margin-top: 15px;
+	margin-bottom:26px;
+
+
+}
+
+.crystalImage {
+	height: 111px;
+	margin-left: 10px;
+
+}
+
+.crystalImage:firstchild {
+	margin-left: 0px;
+
+}
+
+#totalScore {
+	margin-bottom: 50px;
+	border-radius: 60px;
+	
+
+}
+
+#yts {
+	background-color: rgba(3, 25, 78, 0.76);
+	display: inline;
+	padding: 20px;
+	color: #9a0b0b;
+	
+}
+footer
+{
+	text-align: center;
+}
+.contact
+{
+	font-family: "Comic Sans MS", cursive, sans-serif;
+	font-size: 22px;
+	color: white;
+}
+
+a {
+    color: yellow;
+    text-decoration: none;
+}
+	
